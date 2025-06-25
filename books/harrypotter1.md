@@ -6,3 +6,8 @@
 - Harry
 - Ron
 - Hermione
+- snape
+- Mcgonagull
+- Dumbledore
+- Hagrid
+- Headwig

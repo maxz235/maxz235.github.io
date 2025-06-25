@@ -6,3 +6,6 @@
 - Harry
 - Ron
 - Hermione
+- Dobby
+- Ginny
+- Lokart
